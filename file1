@@ -1,0 +1,7 @@
+its github practice file
+touch file1
+git status
+git add file1
+git status
+git commit -m "discription"
+git push
